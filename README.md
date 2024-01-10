@@ -9,6 +9,8 @@ Text-to-speech functionality for responses.
 Conversational capabilities powered by ChatGPT.
 Extensible architecture to add more functionalities.
 
+![image](Image.png)
+
 ### Requirements
 - Python 3.x
 - ALl library in `requiment.txt`
