@@ -14,7 +14,7 @@ Extensible architecture to add more functionalities.
 ### Requirements
 - Python 3.x
 - ALl library in `requiment.txt`
-- OpenAI API key
+- OpenAI API key from https://platform.openai.com/api-keys
 
 ## Installation
 1. Clone the repository:
