@@ -54,12 +54,13 @@ send_to_chatGPT(messages)
 
 while(True):
     text = record_text()
+    print("You : " + text)
     if (text.lower() == "exit"):
         print("Bye!")
         exit()
 
     messages.append({"role": "user", "content": text})
     response = send_to_chatGPT(messages)
-    print(response)
+    print("J.A.V.I.S. : " + response)
     SpeakText(response)
     
