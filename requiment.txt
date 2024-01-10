@@ -1,1 +1,6 @@
 python-dotenv
+speechrecognition
+pyaudio
+pyttsx3
+openai==0.28
+py3-tts
